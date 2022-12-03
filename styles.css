@@ -12,10 +12,16 @@ h1 {
     font-weight: bold;
     background-color: lightcoral;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 10px solid lightgreen;
 }
 
 .about {
     font-family: Verdana, "DejaVu Sans", sans-serif;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
 .about strong,
