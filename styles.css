@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(185,162,129)
+}
+
+h1 {
+    color: lightblue;
+    font-size: 42px;
+}
+
+#merry_christmas_title {
+    color: lightgreen;
+    font-weight: bold;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.about {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.about strong,
+.about h2{
+    color: lightblue;
+}
+
