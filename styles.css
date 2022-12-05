@@ -1,13 +1,15 @@
-* {
-    background-color: rgb(185,162,129)
+body {
+    background-color: rgb(6,57,112)
 }
 
 h1 {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     color: lightblue;
     font-size: 42px;
 }
 
 #merry_christmas_title {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     color: lightgreen;
     font-weight: bold;
     background-color: lightcoral;
@@ -19,13 +21,20 @@ h1 {
 
 .about {
     font-family: Verdana, "DejaVu Sans", sans-serif;
-    margin-top: 25px;
-    margin-bottom: 50px;
+    font-weight: bold;
+    /* margin-left: 780px; */
+    /* margin-right: 780px; */
+    /* margin-top: 50px; */
+    /* margin-bottom: 50px; */
     text-align: center;
+    background-image: url("images/mifff_xmas.jpeg");
 }
 
-.about strong,
 .about h2{
     color: lightblue;
+}
+
+.about p {
+    color: yellow;
 }
 
